@@ -1,0 +1,2 @@
+# ohmys3cmd
+mirror
